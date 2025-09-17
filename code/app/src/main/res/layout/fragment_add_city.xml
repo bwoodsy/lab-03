@@ -9,12 +9,12 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="text"
-        android:text="City" />
+        android:hint="City" />
     <EditText
         android:id="@+id/edit_text_province_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="text"
-        android:text="Province" />
+        android:hint="Province" />
 </LinearLayout>

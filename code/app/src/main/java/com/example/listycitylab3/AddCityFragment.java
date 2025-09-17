@@ -26,6 +26,7 @@ public class AddCityFragment extends DialogFragment {
             throw new RuntimeException(context + " must implement AddCityDialogListener");
         }
     }
+
     @NonNull
     @Override
     public Dialog onCreateDialog(@Nullable Bundle savedInstanceState) {
